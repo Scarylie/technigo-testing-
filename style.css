@@ -1,0 +1,26 @@
+/* Example styling of a h1 element */
+h1 {
+  color: #8954FF;
+  font-weight: 700;
+}
+h2 {
+  color: #9976e6;
+  font-weight: 400;
+}
+h3 {
+  color: #8954FF;
+  margin-bottom: 5px;
+}
+body {
+  background-color: #c5f3d9;
+  font-family: 'Open Sans', sans-serif;  
+}
+.link {
+  color:rgb(0, 0, 0);
+  text-decoration: none;
+}
+p {
+  margin: 0;
+}
+
+
